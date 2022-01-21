@@ -12,7 +12,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/819929600531365960/931628998696529980/CEU_ESTRELADO_REFLETIDO_NO_LAGO_Resolution_6000x3375.jpg">
+  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/819929600531365960/934208898192277604/Animated_gif_about_gif_in__3_by_Anni_on_We_Heart_It.gif">
 </div>
 
  ##
