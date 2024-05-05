@@ -15,9 +15,9 @@ Atualmente, estou explorando principalmente as seguintes áreas:
 - Continuar aprendendo e praticando programação regularmente
 - Contribuir para projetos de código aberto
 
-## Como Me Encontrar
-<a href="https://br.linkedin.com/in/yago-bastos">LinkedIn</a>
-<a href="mailto:yagobastos02102004@gmail.com">E-mail</a>
+## 📲 Contato
+<a href="https://br.linkedin.com/in/yago-bastos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:yagobastos02102004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 
 ## Contribuições
